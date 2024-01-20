@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Lorem Ipsum post"
-author: "Inela"
+title: "0탄. 어쩌다 대학원 간 사람의 미박 준비 수기 "
+author: "Yunjeong"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## 들어가기 앞서
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+본격적인 미박 준비 과정을 적기 전에 제가 어떻게 미박을 결심하고 어떤 마음가짐으로 준비했는지 간단하게 소개해 보려고 합니다. 제 준비 과정은 다른 분들과 조금 다르게 상당히 감정적이고 돌이켜보면 무모한 점도 많았기 때문에, 그 배경을 설명하면 좋을 거로 생각했습니다.
