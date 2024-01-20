@@ -2,7 +2,6 @@
 layout: post
 title: "0탄. 어쩌다 대학원 간 사람의 미박 준비 수기 "
 author: "Yunjeong"
-date: 2024-01-21
 ---
 
 ## 들어가기 앞서
