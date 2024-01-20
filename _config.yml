@@ -1,13 +1,13 @@
 # Site settings
-title:          Rain
-description:    "Rain is a simple and clean Jekyll theme with focus on content."
-url:            https://github.com/inelaah/rain
+title:          YJ Ph.D. Application
+description:    "어쩌다 대학원에 가게 된 사람의 미박 준비 수기"
+url:            https://yunjeongl920.github.io
 
 # Author
 author:
-  name:         Inela Avdic Hukic
-  email:        inelaah@gmail.com
-  url:          https://inelaah.com
+  name:         Yunjeong Lee
+  email:        yunjeongll920@gmail.com
+  url:          ""
 
 # Build settings
 markdown:       kramdown
@@ -34,7 +34,7 @@ related_posts_section:
 
 # Links to social media
 social:
-  email: inelaah@gmail.com
-  github: https://github.com/inelaah
+  email: yunjeongll920@gmail.com
+  github: https://github.com/
   twitter: https://twitter.com
-  linkedin: https://ba.linkedin.com/in/inela-avdic-hukic-322354131
+  linkedin: https://ba.linkedin.com/
