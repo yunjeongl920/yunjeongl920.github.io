@@ -4,7 +4,13 @@ title: "0탄. 어쩌다 대학원 간 사람의 미박 준비 수기"
 author: "Yunjeong"
 ---
 
-안녕하세요 저는 고려대 정외과 학석 졸업 후 미국 박사 어드미션 결과를 기다리고 있는 이윤정입니다. 현재까지 UT Austin(01/17) 합격하였고 다른 결과들을 더 기다리고 있습니다. 제 정량적인 스펙은 아래와 같습니다. 
+안녕하세요 저는 고려대 정외과 학석 졸업 후 미국 박사 어드미션 결과를 기다리고 있는 이윤정입니다. 합격한 학교들은 아래와 같습니다.
+
+- UT Austin (1/17) - SOP, WS, GRE, TOEFL
+- Rice University (1/24) - SOP, WS, GRE, TOEFL
+- University of Georgia (1/23) - SOP, WS, GRE, TOEFL (Offered Fellowship)
+
+제 정량적인 스펙은 아래와 같습니다. 
 
 - Undergrad GPA: 3.04/4.00
 - Grad GPA: 3.81/4.00
