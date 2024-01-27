@@ -9,6 +9,7 @@ author: "Yunjeong"
 - UT Austin (1/17) - SOP, WS, GRE, TOEFL
 - Rice University (1/24) - SOP, WS, GRE, TOEFL
 - University of Georgia (1/23) - SOP, WS, GRE, TOEFL (Offered Fellowship)
+- Northwestern University (1/27) - SOP, WS, PS, GRE, TOEFL
 
 제 정량적인 스펙은 아래와 같습니다. 
 
