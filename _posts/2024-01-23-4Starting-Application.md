@@ -3,6 +3,52 @@ layout: post
 title: "4탄. 입시타임라인과 Personal Statement"
 ---
 
+## 입시 Timeline
+
+Jan ~ Feb
+- GRE 해커스 (1월)
+- 유학 vs. 취업 고민
+- GRE 독학 (2월)
+- 종합시험
+
+Mar
+- GRE 시험 (3/11)
+- 분야 정하기
+- PS brainstorm 
+- Fulbright 준비 시작
+
+April
+- CV 초안 완성
+- PS & SOP 초안 작업
+- 추천서 부탁 메일(장학금과 유학 추천서 연결 안 시켜도 됨)
+
+May
+- CV/PS/SOP 풀브용 완성
+- 교수님께 2번정도 피드백
+- Fulbright 지원 완료
+
+June ~ July
+- Term paper 및 World Congress 준비 
+- SOP 준비 최신 논문 정리
+- 풀브라이트 인터뷰 준비
+
+Aug ~ Sep
+- 휴식
+- SOP 계속 써보기 
+
+Oct
+- 라이팅샘플 새로 쓰기
+- 추천서 부탁
+
+Nov
+- 라이팅샘플 바탕으로 SOP 다시쓰기
+- 학교 서칭
+- 추천서 서류 보내드리기
+
+Dec
+- 학교 별 단락 작성
+- 영어 성적 기관 리포팅 및 지원
+
 
 ## Personal Statement
 
