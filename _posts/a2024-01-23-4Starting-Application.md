@@ -20,8 +20,19 @@ PS를 제출하는 가장 큰 목적은 지원자가 어떤 사람인지 바로 
 
 PS에 애써 잊고 지내던 이야기를 풀어 쓰고 그로부터 겪은 감정들을 서술하는 것은 쉽지 않았으나 국제법과 인권을 전공하고 싶다는 강력한 동기부여가 되었으며 SOP와 연구에서 강조하는 So what 질문에 대한 자신의 답이 정해지는 경험이었습니다. 
 
-## Statement of Purpose
+### PS 결론
 
-[5 Rules for Writing a Strong SOP](https://static1.squarespace.com/static/57d2eeebbe65947fb325749e/t/57db3d47f7e0abec4167cf9e/1473985869102/5+Rules+for+Statement+of+Purpose.pdf)
+> 1) 왜 이 주제로 2) 너가 3) 미국에서 4) 박사를 해야 하는지
+
+이 질문에 모두 답하는 서류가 PS입니다. 인종이나 queer identity 이런거를 강조해야 한다는 말도 많지만 모두에게 그런 것은 아니며 perspective의 diversity 또한 많은 학교의 PS 작성란에 강조되어 있습니다. 지원자 고유의 경험이 학계에 어떤 시각을 가져다줄 수 있으며 본인이 그것을 통해 어떻게 성장하고 어떤 방향으로 나아갈 것인지 잘 고민해보시기 바랍니다. 
+
+참고를 위해 [제 Personal Statement](https://www.dropbox.com/scl/fi/pwc6q5tcyfihwpvyg69ld/PERSONAL-STATEMENT_Northwestern.pdf?rlkey=ewk21iozerd3pphqzcn717gus&dl=0)를 첨부합니다. 
+
+
+
+
+
+
+
 
 
