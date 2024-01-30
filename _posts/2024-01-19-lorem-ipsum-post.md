@@ -6,10 +6,10 @@ author: "Yunjeong"
 
 안녕하세요 저는 고려대 정외과 학석 졸업 후 미국 박사 어드미션 결과를 기다리고 있는 이윤정입니다. 합격한 학교들은 아래와 같습니다.
 
-- UT Austin (1/17) - SOP, WS, GRE, TOEFL (Expect Fellowship)
-- Rice University (1/24) - SOP, WS, GRE, TOEFL
-- University of Georgia (1/23) - SOP, WS, GRE, TOEFL (Offered Fellowship)
-- Northwestern University (1/27) - SOP, WS, PS, GRE, TOEFL
+- UT Austin (1/17) - Full Funding (summer & 6th year included) + Additional Fellowship expected
+- Rice University (1/24) - Full Funding (summer included)
+- University of Georgia (1/23) - Full Funding (summer included) + Additional Fellowship + $1,500 Visit day fund
+- Northwestern University (1/27) - Full Funding (summer included)
 
 제 정량적인 스펙은 아래와 같습니다. 
 
