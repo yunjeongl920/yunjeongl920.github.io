@@ -6,7 +6,7 @@ author: "Yunjeong"
 
 안녕하세요 저는 고려대 정외과 학석 졸업 후 미국 박사 어드미션 결과를 기다리고 있는 이윤정입니다. 합격한 학교들은 아래와 같습니다.
 
-- UT Austin (1/17) - SOP, WS, GRE, TOEFL
+- UT Austin (1/17) - SOP, WS, GRE, TOEFL (Expect Fellowship)
 - Rice University (1/24) - SOP, WS, GRE, TOEFL
 - University of Georgia (1/23) - SOP, WS, GRE, TOEFL (Offered Fellowship)
 - Northwestern University (1/27) - SOP, WS, PS, GRE, TOEFL
