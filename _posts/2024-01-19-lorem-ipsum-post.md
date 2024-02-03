@@ -18,8 +18,8 @@ author: "Yunjeong"
 - Grad GPA: 3.81/4.00
 - Publication: 0
 - Presentation: 1 (World Congress, Seoul)
-- GRE: V160(84%)/Q166(80%)/W4.5(81%)
-- TOEFL: 115 R30/L30/S27/W28
+- GRE: V160(84%)/ Q166(80%)/ W4.5(81%)
+- TOEFL: 115 (R30/L30/S27/W28)
 - Fulbright Graduate Student Program, Principal Candidate
 
 다른 지원자에 비해 상대적으로 낮은 정량적인 스펙이기 때문에 제 포스트에서는 정성평가를 통해 어떻게 풀브라이트 장학금 및 미국 박사 어드미션 오퍼를 받았는지 소개해 드리겠습니다. 특히, GRE 점수의 중요성이 점점 낮아지는 추세이고 학교 어드미션 사이트에서도 "Holistic Review"를 강조하며 PS를 제출하라는 학교도 많아져서 제 경험이 어느 정도 인사이트가 될 것으로 생각합니다. 
