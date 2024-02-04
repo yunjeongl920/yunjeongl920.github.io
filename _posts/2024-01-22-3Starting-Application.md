@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "4탄. 입시타임라인과 Personal Statement"
+title: "3탄. 입시타임라인과 Personal Statement"
 ---
 
 ## 입시 Timeline
