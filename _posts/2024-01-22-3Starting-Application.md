@@ -45,7 +45,7 @@ PS에 애써 잊고 지내던 이야기를 풀어 쓰고 그로부터 겪은 감
 
 참고를 위해 [제 Personal Statement](https://www.dropbox.com/scl/fi/pwc6q5tcyfihwpvyg69ld/PERSONAL-STATEMENT_Northwestern.pdf?rlkey=ewk21iozerd3pphqzcn717gus&dl=0)를 첨부합니다. 
 
-
+[4탄](https://yunjeongl920.github.io/2024-02-02/4SOP)에서는 가장 중요한 Statement of Purpose에 대해 다루겠습니다.
 
 
 
