@@ -12,6 +12,9 @@ author: "Yunjeong"
 4. Northwestern University (1/27) - Full Funding
 5. Vanderbilt University (2/1) - Full Funding
 
+Waitlisted
+- University of Minnesota Twin Cities (2/5)
+
 제 정량적인 스펙은 아래와 같습니다. 
 
 - Undergrad GPA: 3.04/4.00
