@@ -11,6 +11,7 @@ author: "Yunjeong"
 3. Rice University (1/24) - Full Funding
 4. Northwestern University (1/27) - Full Funding
 5. Vanderbilt University (2/1) - Full Funding
+6. Texas A&M University (2/7) - Full Funding
 
 Waitlisted
 - University of Minnesota Twin Cities (2/5)
