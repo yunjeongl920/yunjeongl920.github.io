@@ -12,9 +12,7 @@ author: "Yunjeong"
 4. Northwestern University (1/27) - Full Funding
 5. Vanderbilt University (2/1) - Full Funding
 6. Texas A&M University (2/7) - Full Funding
-
-Waitlisted
-- University of Minnesota Twin Cities (2/5)
+7. University of Minnesota Twin Cities (2/5 Waitlisted & 3/8 Accepted) - Full Funding
 
 제 정량적인 스펙은 아래와 같습니다. 
 
