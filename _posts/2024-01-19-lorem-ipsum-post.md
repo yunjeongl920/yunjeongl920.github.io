@@ -6,13 +6,13 @@ author: "Yunjeong"
 
 안녕하세요 저는 고려대 정외과를 졸업하고 미국 박사 어드미션 결과를 기다리고 있는 이윤정입니다. 현재까지 합격한 학교들은 아래와 같습니다.
 
-1. UT Austin (1/17) - Full Funding (6th year included) + Additional Fellowship expected
-2. University of Georgia (1/23) - Full Funding + Additional Fellowship + $1,500 Visit day fund
-3. Rice University (1/24) - Full Funding
-4. Northwestern University (1/27) - Full Funding
-5. Vanderbilt University (2/1) - Full Funding
-6. Texas A&M University (2/7) - Full Funding
-7. University of Minnesota Twin Cities (2/5 Waitlisted & 3/8 Accepted) - Full Funding
+1. UT Austin (1/17) 
+2. University of Georgia (1/23) 
+3. Rice University (1/24) 
+4. Northwestern University (1/27) 
+5. Vanderbilt University (2/1) 
+6. Texas A&M University (2/7) 
+7. University of Minnesota Twin Cities (2/5 Waitlisted & 3/8 Accepted) 
 
 제 정량적인 스펙은 아래와 같습니다. 
 
